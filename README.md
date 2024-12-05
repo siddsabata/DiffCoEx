@@ -37,7 +37,7 @@ Installing CoXpress:
 From https://sourceforge.net/projects/coxpress/files/coxpress/R%203.0/ , download coXpress_1.5.tar.gz (the tar file, not the zip file). 
 RStudio > Tools > Install Packages... > select "Install from: Package Archive File (.zip; .tar.gz) > select the tar file.
 
-To run this, open `app.R` and press run. 
+To run this application, open `app.R` and press run. 
 ### Testing 
 When running `go test`, make sure to go into the subdirectories to test all of the supporting executables. The root directory contains the testing for the data processing done in Go, and everything else is organized in their respective directories. 
 ### Usage 
