@@ -1,6 +1,7 @@
 # DiffCoEx
 ![](https://github.com/siddsabata/DiffCoEx/blob/main/data/diffcoex_app.png)
-This was a group project done for 02-601, Programming for Scientists, taught at Carnegie Mellon University. 
+
+This was a group project done for 02-601, Programming for Scientists, taught at Carnegie Mellon University during the Fall of 2024. 
 
 Authors: Jason Hyun, Darrick Lo, Siddharth Sabata, and Katherine Wang
 
