@@ -1,0 +1,2 @@
+t-statistic: 0
+p-value: 1

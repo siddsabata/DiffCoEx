@@ -1,0 +1,2 @@
+t-statistic: 4.8990
+p-value: 0.0000

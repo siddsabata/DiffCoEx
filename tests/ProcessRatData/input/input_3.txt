@@ -1,0 +1,7 @@
+!dataset_table_begin
+ID	Description	Eker1	Eker2	...	Eker36	Wild1	Wild2	...	Wild36
+GENE1	desc1	1.0e+10	1.1	...	1.36	2.0	2.1e-10	...	2.36
+GENE2	desc2	2.0	2.1e+10	...	2.36	3.0e-10	3.1	...	3.36
+...
+GENE2476	desc2476	2476.0	2476.1e+10	...	2476.36	2477.0e-10	2477.1	...	2477.36
+!dataset_table_end

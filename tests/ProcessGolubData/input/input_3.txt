@@ -1,0 +1,4 @@
+ID	Description	ALL1	ALL2	ALL3	ALL4	ALL5	ALL6	ALL7	ALL8	ALL9	ALL10	ALL11	ALL12	ALL13	ALL14	ALL15	ALL16	ALL17	ALL18	ALL19	ALL20	ALL21	ALL22	ALL23	ALL24	ALL25	ALL26	ALL27	AML1	AML2	AML3	AML4	AML5	AML6	AML7	AML8	AML9	AML10	AML11
+GENE1	Gene1_desc	0	0	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-2	-2	-2	-2	-2	-2	-2	-2	-2
+GENE2	Gene2_desc	0	0	-3	-3	-3	-3	-3	-3	-3	-3	-3	-3	-3	-3	-3	-3	-3	-3	-3	-3	-3	-3	-3	-3	-3	-3	-3	-3	-3	-4	-4	-4	-4	-4	-4	-4	-4	-4
+GENE3	Gene3_desc	0	0	-5	-5	-5	-5	-5	-5	-5	-5	-5	-5	-5	-5	-5	-5	-5	-5	-5	-5	-5	-5	-5	-5	-5	-5	-5	-5	-5	-6	-6	-6	-6	-6	-6	-6	-6	-6

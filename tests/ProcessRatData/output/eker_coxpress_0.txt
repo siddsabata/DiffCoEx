@@ -1,0 +1,4 @@
+ID,Sample1,Sample2,Sample3,Sample4,Sample5,Sample6
+GENE1,1.0,2.0,3.0,4.0,5.0,6.0
+GENE2,2.0,3.0,4.0,5.0,6.0,7.0
+GENE3,3.0,4.0,5.0,6.0,7.0,8.0

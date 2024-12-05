@@ -1,0 +1,22 @@
+Directory structure should look like the following:
+
+project_directory/
+├── app.R
+├── preprocess.go
+├── main.go
+├── preprocess (compiled executable)
+├── data/
+│   ├── GDS2901.soft
+│   └── golub.txt
+└── output/
+    ├── diffcoex/
+    └── coxpress/
+
+
+(*Data files can be found on Google Drive)
+
+Terminal commands:
+go build -o preprocess
+chmod +x preprocess (if errors about permissions happen)
+
+Then run app.R
