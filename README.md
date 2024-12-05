@@ -14,13 +14,21 @@ Note: Generative AI used for this project
 
 ### Package dependencies
 Make sure you have RStudio installed with the latest version of R. 
+
 WGCNA
+
 Shiny
+
 CoXpress
+
 RColorBrewer
+
 preprocessCore
+
 flashClust
+
 ggplot2
+
 tidyverse
 
 Also make sure to have Bioconductor installed. 
