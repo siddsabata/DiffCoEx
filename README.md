@@ -1,7 +1,15 @@
+# DiffCoEx
+This was a group project done for 02-601, Programming for Scientists, taught at Carnegie Mellon University. 
+
+Authors: Jason Hyun, Darrick Lo, Siddharth Sabata, and Katherine Wang
+
+### Background
+In this project, we created a streamlined Go-R data pipeline to speed up data processing and significance testing of gene coexpression results from microarray data. A user friendly interface was created using R-Shiny to simplify viewing the results. 
+
 Note: Generative AI used for this project
 
-Make sure you have RStudio installed with the latest version of R. 
 ### Package dependencies
+Make sure you have RStudio installed with the latest version of R. 
 WGCNA
 Shiny
 CoXpress
