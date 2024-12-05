@@ -6,7 +6,7 @@ Authors: Jason Hyun, Darrick Lo, Siddharth Sabata, and Katherine Wang
 ### Background
 In this project, we created a streamlined Go-R data pipeline to speed up data processing and significance testing of differential gene coexpression results from microarray data. A user friendly interface was created using R-Shiny to simplify viewing the results. 
 
-We implemented two different algorithms: [DiffCoEx(https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-11-497), and [CoXpress](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-7-509).
+We implemented two different algorithms: [DiffCoEx](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-11-497), and [CoXpress](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-7-509), and compared clustering results between the two. Significance testing was then performed on DiffCoEx results, due to the significantly smaller number of gene modules. 
 
 Note: Generative AI used for this project
 
